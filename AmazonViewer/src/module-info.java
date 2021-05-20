@@ -1,0 +1,3 @@
+module AmazonViewer {
+	requires makefile;
+}
